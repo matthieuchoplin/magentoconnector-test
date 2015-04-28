@@ -1,18 +1,20 @@
 [submodule "connector"]
-	path = connector
-	url = git@github.com:OCA/connector.git
+        path = connector
+        url = https://github.com/OCA/connector.git
 [submodule "connector-ecommerce"]
-	path = connector-ecommerce
-	url = git@github.com:guewen/connector-ecommerce.git
+        path = connector-ecommerce
+        url = https://github.com/guewen/connector-ecommerce.git
+        branch = 8.0-connector_ecommerce-migr 
 [submodule "connector-magento"]
-	path = connector-magento
-	url = git@github.com:guewen/connector-magento.git
+        path = connector-magento
+        url = https://github.com/guewen/connector-magento.git
+        branch = 8.0-connector_magento-migr
 [submodule "e-commerce"]
-	path = e-commerce
-	url = git@github.com:OCA/e-commerce.git
+        path = e-commerce
+        url = https://github.com/OCA/e-commerce.git
 [submodule "product-attribute"]
-	path = product-attribute
-	url = git@github.com:OCA/product-attribute.git
+        path = product-attribute
+        url = https://github.com/OCA/product-attribute.git
 [submodule "sale-workflow"]
-	path = sale-workflow
-	url = git@github.com:OCA/sale-workflow.git
+        path = sale-workflow
+        url = https://github.com/OCA/sale-workflow.git
